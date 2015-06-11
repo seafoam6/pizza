@@ -10,6 +10,7 @@ Where is the best pizza in a given city? This is a community project. Pull reque
 
 * [Luigi's Pizza](http://www.yelp.com/biz/luigi-pizzeria-brooklyn)
 * [Roberta's](http://www.robertaspizza.com/)
+* [My Little Pizzeria](http://www.yelp.com/biz/my-little-pizzeria-brooklyn)
 
 ## Woodbridge, NJ
 
